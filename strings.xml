@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sort Practice</string>
+    <string name="random">乱数生成</string>
+    <string name="sortCheck">チェック</string>
+    <string name="sort1">単純選択ソート</string>
+    <string name="sort2">シェーカーソート</string>
+    <string name="sort3">クイックソート</string>
+    <string name="sort4">コームソート</string>
+    <string name="sort5">単純挿入ソート</string>
+    <string name="sort6">マージソート</string>
+</resources>

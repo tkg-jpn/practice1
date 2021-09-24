@@ -2,6 +2,8 @@ package com.example.sortpractice;
 
 import java.util.Arrays;
 
+//Git練習中
+
 public class MyQueue<E> {
     private E[] elements;
     private int front;
